@@ -13,4 +13,4 @@ Students should use this rubric for self-checking their submission. Make sure th
 
 # Instructions:
 
-Use the arrow keys on the keyboard to move your Sprite (player) across the game board, avoiding all enemies. The goal is to get your Sprite to the river.
+Use the arrow keys on the keyboard to move your Sprite (player) across the game board, avoiding all enemies. The goal is to get your Player/Boy to the river.
