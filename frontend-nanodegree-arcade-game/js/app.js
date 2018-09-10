@@ -6,7 +6,8 @@
 // write your own player class
 // This class requires an update(), render() and
 // a handleInput() method.
-// Special thanks to Matthew Cranford for his awesome walkthrough
+// Special thanks to Matthew Cranford for his awesome walkthrough and to the cohort for help
+
 class Hero {
   constructor(){
      this.sprite = 'images/char-boy.png';
